@@ -1,9 +1,8 @@
-# 𝐑𝐘𝐔𝐙𝐀𝐊𝐈 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 &nbsp; [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danryuzaki)
-
+# 𝐑𝐘𝐔𝐙𝐀𝐊𝐈 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 ![‎ ⎚-⎚‎ ‎ ](https://img.shields.io/badge/%E2%80%8E%20%E2%8E%9A--%E2%8E%9A%E2%80%8E%20%E2%80%8E-active%20but%20not%20so%20active-white?labelColor=grey&style=flat)
 <i> Hello! I am Daniel-Ryuzaki Adan, an aspiring Machine Learning (MLEngr) and Software Engineer (SWEngr). </i> 
 <br>
 
-![Visit Count](https://visitcount.itsvg.in/api?id=DanRyuzaki&icon=0&color=0) &nbsp; &nbsp;  &nbsp; [![ORCID](https://img.shields.io/badge/_ORC_ID_-0009--0003--6411--7099-48ff00.svg?style=for-the-badge)](https://orcid.org/0009-0003-6411-7099) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danryuzaki) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ryuzakilovescoding) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/danryuzaki00)  
+![Visit Count](https://visitcount.itsvg.in/api?id=DanRyuzaki&icon=0&color=0) &nbsp; &nbsp;  &nbsp; [![ORCID](https://img.shields.io/badge/_ORC_ID_-0009--0003--6411--7099-48ff00.svg?style=for-the-badge)](https://orcid.org/0009-0003-6411-7099) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danryuzaki) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ryuzakilovescoding) [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danryuzaki00@gmail.com)  
 <br>
 
 ## 𝐒𝐊𝐈𝐋𝐋𝐒𝐄𝐓
@@ -42,3 +41,6 @@
 [![tulips-garden](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/tulips-garden-flutter-web&mode=dark&style=horizontal)](https://github.com/DanRyuzaki/tulips-garden-flutter-web)
 [![bin2better-ai](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/bin2better-ai&mode=light&style=horizontal)](https://github.com/DanRyuzaki/bin2better-ai)
 <br><br> <hr>
+
+<p align="center"> <a href="https://www.buymeacoffee.com/danryuzaki" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
