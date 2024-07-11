@@ -36,7 +36,7 @@
 
 ## 𝐑𝐄𝐂𝐄𝐍𝐓 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
 [![fsl-dictionary-app](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/fsl-dictionary-mobile-app&mode=light&style=horizontal)](https://github.com/DanRyuzaki/fsl-dictionary-mobile-app)
-[![tulips-garden](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/tulips-garden-flutter-web&mode=dark&style=horizontal)](https://github.com/DanRyuzaki/tulips-garden-flutter-web)
+[![tulips-garden](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/tulips-garden-pwa-app&mode=dark&style=horizontal)](https://github.com/DanRyuzaki/tulips-garden-flutter-web)
 [![bin2better-ai](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/bin2better-ai&mode=light&style=horizontal)](https://github.com/DanRyuzaki/bin2better-ai)
 <br><br> <hr>
 
