@@ -32,7 +32,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 
-<br> <br>
+<br> <br> 
 
 ## 𝐑𝐄𝐂𝐄𝐍𝐓 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
 [![tulips-garden](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/tulips-garden-pwa-app&mode=dark&style=horizontal)](https://github.com/DanRyuzaki/tulips-garden-pwa-app)
