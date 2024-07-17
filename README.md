@@ -7,7 +7,7 @@
 
 ## 𝐒𝐊𝐈𝐋𝐋𝐒𝐄𝐓
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android_SDK_with_Java-6DA55F?style=flat-square&logo=Android&logoColor=white) 
+![Android](https://img.shields.io/badge/Android-6DA55F?style=flat-square&logo=Android&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF8C00?style=flat-square&logo=Tensorflow&logoColor=white)
