@@ -2,7 +2,7 @@
 <i> Hello! I am Daniel-Ryuzaki Adan, an aspiring Machine Learning (MLEngr) and Software Engineer (SWEngr). </i> 
 <br>
 
-![Visit Count](https://visitcount.itsvg.in/api?id=DanRyuzaki&icon=0&color=0) &nbsp; &nbsp;  &nbsp; [![ORCID](https://img.shields.io/badge/_ORC_ID_-0009--0003--6411--7099-48ff00.svg?style=for-the-badge)](https://orcid.org/0009-0003-6411-7099) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danryuzaki) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ryuzakilovescoding) [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:${mail:danryuzaki00@gmail.com})  
+![Visit Count](https://komarev.com/ghpvc/?username=DanRyuzaki&color=green) &nbsp; &nbsp;  &nbsp; [![ORCID](https://img.shields.io/badge/_ORC_ID_-0009--0003--6411--7099-48ff00.svg?style=for-the-badge)](https://orcid.org/0009-0003-6411-7099) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danryuzaki) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ryuzakilovescoding) [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:${mail:danryuzaki00@gmail.com})  
 <br>
 
 ## 𝐒𝐊𝐈𝐋𝐋𝐒𝐄𝐓
