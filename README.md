@@ -36,7 +36,7 @@
 <br> <br> 
 
 ## 𝐑𝐄𝐂𝐄𝐍𝐓 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
-[!{snoozio](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/snoozio&mode=light&style=horizontal)](https://github.com/DanRyuzaki/snoozio/)
+[![snoozio](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/snoozio&mode=light&style=horizontal)](https://github.com/DanRyuzaki/snoozio/)
 [![sis-ima-webhub](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/sis-ima-webhub&mode=dark&style=horizontal)](https://github.com/DanRyuzaki/sis-ima-webhub/)
 [![tulips-garden](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/tulips-garden-pwa-app&mode=light&style=horizontal)](https://github.com/DanRyuzaki/tulips-garden-pwa-app/)
 <br><br> <hr>
