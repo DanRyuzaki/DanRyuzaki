@@ -37,7 +37,7 @@
 
 ## 𝐑𝐄𝐂𝐄𝐍𝐓 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
 [![snoozio](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/snoozio&mode=light&style=horizontal)](https://github.com/DanRyuzaki/snoozio/)
-[![sis-ima-webhub](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/sis-ima-webhub&mode=dark&style=horizontal)](https://github.com/DanRyuzaki/sis-ima-webhub/)
+[![sis-ima-webhub](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/sis-ima-webhubb&mode=dark&style=horizontal)](https://github.com/DanRyuzaki/sis-ima-webhub/)
 [![classscan](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/ClassScan&mode=light&style=horizontal)](https://github.com/DanRyuzaki/ClassScan/)
 <br><br> <hr>
 
