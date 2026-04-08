@@ -38,7 +38,7 @@
 ## 𝐑𝐄𝐂𝐄𝐍𝐓 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
 [![snoozio](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/snoozio&mode=light&style=horizontal)](https://github.com/DanRyuzaki/snoozio/)
 [![sis-ima-webhub](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/sis-ima-webhub&mode=dark&style=horizontal)](https://github.com/DanRyuzaki/sis-ima-webhub/)
-[![tulips-garden](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/ClassScan&mode=light&style=horizontal)](https://github.com/DanRyuzaki/ClassScan/)
+[![classscan](https://svg.bookmark.style/api?url=https://github.com/DanRyuzaki/ClassScan&mode=light&style=horizontal)](https://github.com/DanRyuzaki/ClassScan/)
 <br><br> <hr>
 
 <p align="center"> <a href="https://www.buymeacoffee.com/danryuzakic" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
